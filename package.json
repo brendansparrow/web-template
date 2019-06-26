@@ -4,6 +4,7 @@
   "description": "A starter template for basic web projects",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint",
     "test": "test"
   },
   "repository": {
@@ -20,5 +21,13 @@
   "bugs": {
     "url": "https://github.com/brendansparrow/web-template/issues"
   },
-  "homepage": "https://github.com/brendansparrow/web-template#readme"
+  "homepage": "https://github.com/brendansparrow/web-template#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
 }
