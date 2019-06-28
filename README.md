@@ -13,10 +13,15 @@ Alternatively, create a new directory and run:
 
 
 ```sh
-$ git clone
-$ cd $_
-$ npm install
+git clone
+cd $_
+npm install
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org/) installed.*
 
+
+
+### License
+
+Distributed under the MIT license. See ``LICENSE`` for more information.
