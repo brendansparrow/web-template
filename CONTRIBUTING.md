@@ -1,46 +1,99 @@
-# Contributor Covenant Code of Conduct
+# Contributing
 
-## Our Pledge
+> This project has a [Code of Conduct][coc].  By interacting with this
+> repository or community you agree to abide by its terms.
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Hi!  It's great that you’re interested in contributing! Before doing so, take
+a moment to read the following guidelines. ✨
 
-## Our Standards
+Please be considerate in requests for features and changes, and be patient
+regarding response times,the people involved with this project choose to do so
+as volunteers, in addition to their day job. Maintainers are not able to respond
+to individual support requests, but if you feel that something in the docs is
+missing or incorrect, please let us know!
 
-Examples of behavior that contributes to creating a positive environment include:
+## Table of Contents
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+*   [Trying out your local changes](#trying-out-your-local-changes)
+*   [Running tests](#running-tests)
+*   [Contributions](#contributions)
+    *   [Improve documentation](#improve-documentation)
+    *   [Improve issues](#improve-issues)
+    *   [Give feedback on issues](#give-feedback-on-issues)
+    *   [Write code](#write-code)
+*   [Submitting an issue](#submitting-an-issue)
+*   [Submitting a pull request](#submitting-a-pull-request)
+*   [Resources](#resources)
 
-Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+## Trying out your local changes
 
-## Our Responsibilities
+To see how your local changes affect the codebase you can use
+[npm link](https://docs.npmjs.com/cli/link)
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+```sh
+git clone <your fork url>
+cd
+npm install
+npm link
+```
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+## Running tests
 
-## Scope
+```sh
+npm test
+```
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+## Contributions
 
-## Enforcement
+There are several ways to contribute, not just by writing code.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at btsparrow@hotmail.co.uk. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+### Improve documentation
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+As a user of this project you’re perfect for helping us improve our docs.
+Typo corrections, error fixes, better explanations, new examples, etcetera.
+Anything!
 
-## Attribution
+### Improve issues
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+Some issues lack information, aren’t reproducible, or are just incorrect.
+Help make them easier to resolve.
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+### Give feedback on issues
+
+We’re always looking for more opinions on discussions in the issue tracker.
+
+### Write code
+
+Code contributions are very welcome.  It’s often good to first create an issue
+to report a bug or suggest a new feature before creating a pull request to
+prevent you from doing unnecessary work.
+
+## Submitting an issue
+
+*   The issue tracker is for issues, try to find the best issue tracker for your issue
+*   Search the issue tracker (including closed issues) before opening a new issue
+*   Ensure you’re using the latest version of projects
+*   Use a clear and descriptive title
+*   Include as much information as possible: steps to reproduce the issue,
+    error message, version, operating system, etcetera
+*   The more time you put into an issue, the more we will
+
+## Submitting a pull request
+
+*   Non-trivial changes are often best discussed in an issue first, to prevent
+    you from doing unnecessary work
+*   For ambitious tasks, you should try to get your work in front of the
+    community for feedback as soon as possible
+*   New features should be accompanied with tests and documentation
+*   Don’t include unrelated changes
+*   Lint and test before submitting code by running `$ npm test`
+*   Write a convincing description of why we should land your pull request:
+    it’s your job to convince us
+
+## Resources
+
+*   [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+*   [Your first open source contribution: a step-by-step technical guide](https://medium.com/@jenweber/your-first-open-source-contribution-a-step-by-step-technical-guide-d3aca55cc5a6)
+*   [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
+*   [GitHub Help](https://help.github.com)
