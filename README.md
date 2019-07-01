@@ -7,18 +7,18 @@
 
 ## What's inside?
 
-- A *README* file for basic documentation
-- A *package.json* listing all scripts and dependencies used in the project
-- A *LICENSE* file that contains license information
-- A *browserslist* to define the browsers that will be supported
-- An *editorconfig* to predefine code formatting settings for your IDE
-- *.git* files for a more organised git workflow
-- A *.prettierrc* file that contains a basic configuration for code linting
-- A *Code of Conduct* for developers to follow
-- *Contributing Guidelines* for contributors
-- *Security guidelines* for reporting security issues
-- An *Issue template* for submitting issues
-- A *Pull Request template* for submitting pull requests
+- A **README** file for basic documentation
+- A **package.json** listing all scripts and dependencies used in the project
+- A **LICENSE** file that contains license information
+- A **browserslist** to define the browsers that will be supported
+- An **editorconfig** to predefine code formatting settings for your IDE
+- **.git** files for a more organised git workflow
+- **.prettierrc** and **.prettierignore** files to configure code linting
+- A **Code of Conduct** for developers to follow
+- **Contributing Guidelines** for contributors
+- **Security guidelines** for reporting security issues
+- An **Issue template** for submitting issues
+- A **Pull Request template** for submitting pull requests
 
 
 ## Getting started
