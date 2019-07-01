@@ -13,10 +13,12 @@
 - A *browserslist* to define the browsers that will be supported
 - An *editorconfig* to predefine code formatting settings for your IDE
 - *.git* files for a more organised git workflow
-- *.prettierrc* file containing a basic configuration for code linting
+- A *.prettierrc* file that contains a basic configuration for code linting
 - A *Code of Conduct* for developers to follow
 - *Contributing Guidelines* for contributors
 - *Security guidelines* for reporting security issues
+- An *Issue template* for submitting issues
+- A *Pull Request template* for submitting pull requests
 
 
 ## Getting started
