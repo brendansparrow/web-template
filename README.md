@@ -7,8 +7,7 @@
 
 ## What's inside?
 
-- A **README** file for basic documentation
-- A **package.json** listing all scripts and dependencies used in the project
+- A **README** file
 - A **LICENSE** file that contains license information
 - A **browserslist** to define the browsers that will be supported
 - An **editorconfig** to predefine code formatting settings for your IDE
@@ -22,15 +21,13 @@
 
 ## Getting started
 
-Click the "Use this template" button.
-
-Alternatively, create a new directory and run:
+To use these files, either copy them directly or use [Degit](https://github.com/Rich-Harris/degit) to install them.
 
 
 ```sh
-git clone
-cd $_
-npm install
+npm install -g degit
+degit https://github.com/brendansparrow/starter-files
+
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org/) installed.*
