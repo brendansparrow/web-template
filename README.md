@@ -13,7 +13,6 @@
 - A **browserslist** to define the browsers that will be supported
 - An **editorconfig** to predefine code formatting settings for your IDE
 - **.git** files for a more organised git workflow
-- **.prettierrc** and **.prettierignore** files to configure code linting
 - A **Code of Conduct** for developers to follow
 - **Contributing Guidelines** for contributors
 - **Security guidelines** for reporting security issues
