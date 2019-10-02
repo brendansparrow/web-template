@@ -26,3 +26,5 @@ Tell us how to reproduce this issue.
 ### Error Logs
 
 Please include any relevant log snippets or files here.
+
+Include a GIF. They're fun.
