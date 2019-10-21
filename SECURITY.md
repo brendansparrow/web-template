@@ -4,4 +4,4 @@ We take security issues very seriously and appreciate your efforts to responsibl
 
 To report a security issue, file an issue with the "SECURITY" label attached.
 
-We'll endeavor to respond quickly, and will keep you updated throughout the process.
+We'll try to respond quickly, and will keep you updated throughout the process.
